@@ -174,3 +174,6 @@ tags
 .ruff_cache
 
 wandb
+
+pokemon-blip-captions/
+stable-diffusion-v1-4/
